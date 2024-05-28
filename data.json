@@ -1,0 +1,49 @@
+[
+    {
+        "question": "Where were the 2016 Summer Olympics held?",
+        "answers": [
+            "rio de janeiro",
+            "rio",
+            "brazil"
+        ],
+        "difficulty": 2,
+        "correct": 2,
+        "incorrect": 4
+    },
+    {
+        "question": "What is the unit code of Programming Principles?",
+        "answers": [
+            "csp1150"
+        ],
+        "difficulty": 1,
+        "correct": 0,
+        "incorrect": 3
+    },
+    {
+        "question": "Is salsa good?",
+        "answers": [
+            "yes"
+        ],
+        "difficulty": 1,
+        "correct": 0,
+        "incorrect": 4
+    },
+    {
+        "question": "is lemon sour?",
+        "answers": [
+            "yes"
+        ],
+        "difficulty": 1,
+        "correct": 0,
+        "incorrect": 6
+    },
+    {
+        "question": "Is water wet?",
+        "answers": [
+            "yes"
+        ],
+        "difficulty": 3,
+        "correct": 0,
+        "incorrect": 5
+    }
+]
